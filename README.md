@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on expanding my experience in statistics.
 - 🌱 I’m currently learning Python through CodeAcademy.
-- 👯 I’m looking to collaborate on statistical projects, especially relating to environmental science, education, energy, and technology.
+- 👯 I’m looking to collaborate on statistical projects, especially relating to ESG and technology.
 - 💬 Ask me about my experiences with: data visualization.
 - 📫 How to reach me: nicolemarieath@gmail.com
 - 😄 Pronouns: She/Her/Hers
