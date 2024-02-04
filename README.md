@@ -1,8 +1,8 @@
 ### ✨ Nicole Athanasiou ✨ 
 
-- 🔭 I’m currently working on growing my experience in statistics.
+- 🔭 I’m currently working on growing my experience in analytics.
 - 🌱 I’m currently expanding my Python skills through my job and personal projects.
-- 👯 I’m looking to collaborate on statistical projects, especially relating to sustainability, health, and technology.
+- 👯 I’m looking to collaborate on data analytics projects, especially relating to sustainability, health, and technology.
 - 💬 Ask me about my experiences with: data prepreprocessing.
 - 📫 How to reach me: https://www.linkedin.com/in/n-athanasiou
 - 😄 Pronouns: She/Her/Hers
